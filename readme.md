@@ -69,7 +69,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Feel free to reach out for questions, feedback, or collaboration opportunities:
 
-**Your Name**
+**Chengmin Li**
  Email: lchengmin9@gmail.com
  GitHub: [tuqing123](https://github.com/tuqing123)
 
